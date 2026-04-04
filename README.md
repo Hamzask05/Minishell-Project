@@ -3,7 +3,6 @@
 
 **Binôme :** Skali-Serraj  
 
-<img width="688" height="299" alt="Mini-Shell - Projet Polytech ET3" src="https://github.com/user-attachments/assets/7ca6abbf-0d91-465e-a665-a698564ea12f" />
 
 ---
 
