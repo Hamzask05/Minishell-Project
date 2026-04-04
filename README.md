@@ -2,8 +2,8 @@
 ## Projet Système — Polytech ET3
 
 **Binôme :** Skali-Serraj  
-**Date :** Avril 2026  
-**Durée :** 8 heures  
+
+<img width="688" height="299" alt="Mini-Shell - Projet Polytech ET3" src="https://github.com/user-attachments/assets/7ca6abbf-0d91-465e-a665-a698564ea12f" />
 
 ---
 
